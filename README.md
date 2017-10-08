@@ -5,4 +5,4 @@
 * When I submit something, I will receive the file size in bytes within the JSON response
 
 ## Visit the link below:
-[FCC File Metadata Microservice Project](https://fcc-file-metadata-serv.herokuapp.com/)
+[https://fcc-file-metadata-serv.herokuapp.com/](https://fcc-file-metadata-serv.herokuapp.com/)
