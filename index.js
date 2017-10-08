@@ -28,4 +28,4 @@ app.post('/getFileSize', upload.single('file'), function(req, res, next) {
   res.end(JSON.stringify(obj));
 });
 
-app.listen(5000);
+app.listen(process.env.PORT || 5000);
